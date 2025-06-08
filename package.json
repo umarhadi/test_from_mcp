@@ -1,0 +1,25 @@
+{
+  "name": "test_from_mcp",
+  "version": "0.1.0",
+  "description": "Test repository created via MCP with Gitflow setup",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umarhadi/test_from_mcp.git"
+  },
+  "keywords": [
+    "gitflow",
+    "test",
+    "mcp"
+  ],
+  "author": "umarhadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/umarhadi/test_from_mcp/issues"
+  },
+  "homepage": "https://github.com/umarhadi/test_from_mcp#readme"
+}
